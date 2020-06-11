@@ -6,4 +6,4 @@ This repository contains twenty five automated system test cases for testing a s
 - the zip file `TestingWebsite` including the files for the test website
 - `SeleniumAutomationTesting.py` file including the recorded test cases.
 
-This has been a part of an assignment in a software quality coure.
+This has been a part of an assignment in a software quality coure. 
